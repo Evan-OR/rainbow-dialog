@@ -1,28 +1,13 @@
 {
     "Dialog": [
+        "This is gonna be narrator text",
         {
-            "id": "1",
-            "text": "Hello, I am a bot. What is your name?",
-            "options": [
-                {
-                    "text": "My name is John",
-                    "next": 2
-                },
-                {
-                    "text": "My name is Jane",
-                    "next": 3
-                }
-            ]
+            "Character": "Character1",
+            "Text": "This is gonna be character1 text"
         },
         {
-            "id": "2",
-            "text": "Hello John, nice to meet you!",
-            "options": []
-        },
-        {
-            "id": "3",
-            "text": "Hello Jane, nice to meet you!",
-            "options": []
+            "Character": "Character2",
+            "Text": "This is gonna be character2 text"
         }
     ]
 }
