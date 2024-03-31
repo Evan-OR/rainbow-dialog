@@ -1,0 +1,28 @@
+{
+    "Dialog": [
+        {
+            "id": "1",
+            "text": "Hello, I am a bot. What is your name?",
+            "options": [
+                {
+                    "text": "My name is John",
+                    "next": 2
+                },
+                {
+                    "text": "My name is Jane",
+                    "next": 3
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "text": "Hello John, nice to meet you!",
+            "options": []
+        },
+        {
+            "id": "3",
+            "text": "Hello Jane, nice to meet you!",
+            "options": []
+        }
+    ]
+}
